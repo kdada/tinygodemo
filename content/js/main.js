@@ -1,1 +1,1 @@
-alert("test content")
+a = 1
